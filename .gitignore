@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# workspaces 
+tracker_ws/
+gridnet_docker/
+
