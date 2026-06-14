@@ -58,5 +58,10 @@ The paper can be found at: https://arxiv.org/pdf/2603.15826
 ## Video 
 Watch the full video here: https://www.youtube.com/watch?v=_ZHGz-BkQzg 
 
+## Compatibility 
+Operating System: Ubuntu 22.04 
+ROS Distribution: ROS2 Humble 
+Architecture: x86-64
+
 ## Details 
 Note: the occupancy gridmap detection pipeline expects a deskewed point cloud. 
