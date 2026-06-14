@@ -60,7 +60,9 @@ Watch the full video here: https://www.youtube.com/watch?v=_ZHGz-BkQzg
 
 ## Compatibility 
 Operating System: Ubuntu 22.04 
+
 ROS Distribution: ROS2 Humble 
+
 Architecture: x86-64
 
 ## Details 
