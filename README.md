@@ -1,5 +1,5 @@
 
-# STORM
+# STORM: Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues
 
 
 <table>
@@ -20,3 +20,43 @@
     </td>
   </tr>
 </table>
+
+## Installation 
+
+To install the software clone this repo and run the install script inside ~/code/storm as below: 
+
+```
+mkdir ~/code && cd ~/code
+git clone git@github.com:jrached/storm.git
+cd storm 
+sudo chmod +x install.sh && ./install.sh
+```
+
+## Run an Example 
+
+To run an example download the sample bag from: https://drive.google.com/drive/folders/1yrg4MFRY51ARdSSXhVFDCev4QN9KAnwL?usp=drive_link
+
+
+And run the following command: 
+
+```
+tmuxp load ~/code/storm/tracker_ws/src/acl-mapping/scripts/run_storm.yaml
+```
+
+# Paper 
+The paper can be found at: https://arxiv.org/pdf/2603.15826
+
+```
+@article{rached2026robust,
+  title={Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues},
+  author={Rached, Juan and Jia, Yixuan and Kondo, Kota and How, Jonathan P},
+  journal={arXiv preprint arXiv:2603.15826},
+  year={2026}
+}
+```
+
+## Video 
+Watch the full video here: https://www.youtube.com/watch?v=_ZHGz-BkQzg 
+
+## Details 
+Note: the occupancy gridmap detection pipeline expects a deskewed point cloud. 
