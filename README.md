@@ -67,3 +67,6 @@ Architecture: x86-64
 
 ## Details 
 Note: the occupancy gridmap detection pipeline expects a deskewed point cloud. 
+
+## Acknowledgements 
+We use the following PointPillars implementation in our model: https://github.com/zhulf0804/PointPillars
