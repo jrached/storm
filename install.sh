@@ -13,8 +13,7 @@ colcon build \
     -DEIGEN_DONT_VECTORIZE=OFF \
   --merge-install
 cd ../ && git clone git@github.com:jrached/gridnet_docker.git --recurse-submodules 
-cd gridnet_docker/Volume/gridnet_ws && colcon build 
-cd ../../ && ./build.sh 
+cd gridnet_docker && ./build.sh 
 
 echo ""
 echo "Installation Finished Without Issues." 
