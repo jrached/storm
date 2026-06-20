@@ -67,6 +67,7 @@ Architecture: x86-64
 
 ## Details 
 Note: the occupancy gridmap detection pipeline expects a deskewed point cloud. 
+
 Note: for the local ROS2 Humble middleware to effectively talk to the ROS2 Foxy middleware in the Docker container, make sure your local variables match RMW_IMPLEMENTATION=rwm_cyclonedds_cpp and ROS_DOMAIN_ID=7. 
 
 ## Acknowledgements 
