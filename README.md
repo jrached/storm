@@ -1,6 +1,7 @@
 
 # STORM: Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues
 
+**Accepted to the 2026 IEEE International Conference on Intelligent Robots and Systems (IROS)**
 
 <table>
   <tr>
