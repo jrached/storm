@@ -47,7 +47,7 @@ tmuxp load ~/code/storm/tracker_ws/src/acl-mapping/scripts/run_storm.yaml
 # Paper 
 The paper can be found at: https://arxiv.org/pdf/2603.15826
 
-```
+```bibtex
 @article{rached2026robust,
   title={Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues},
   author={Rached, Juan and Jia, Yixuan and Kondo, Kota and How, Jonathan P},
