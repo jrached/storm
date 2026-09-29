@@ -73,4 +73,5 @@ Note: for the local ROS2 Humble middleware to effectively talk to the Foxy middl
 
 ## Acknowledgements 
 We use the following PointPillars implementation in our model: https://github.com/zhulf0804/PointPillars
+
 We use the occupancy grid map developed by John Ware and John Carter for the following publication: https://ieeexplore.ieee.org/document/8793930 
